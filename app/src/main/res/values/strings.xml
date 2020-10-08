@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Submission2Kotlin</string>
+    <string name="league_text">League Text</string>
+    <string name="league_image">League Image</string>
+    <string name="league_country">League Country</string>
+    <string name="league_website">League Website</string>
+    <string name="league_description">League Description</string>
+    <string name="league_detail">League_detail</string>
+
+    <string-array name="league_name">
+        <item>English Premier League</item>
+        <item>French Ligue 1</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>Spanish La Liga</item>
+        <item>American Mayor League</item>
+    </string-array>
+
+    <string-array name="id_league">
+        <item>4328</item>
+        <item>4334</item>
+        <item>4331</item>
+        <item>4332</item>
+        <item>4335</item>
+        <item>4346</item>
+    </string-array>
+
+    <array name="league_image">
+        <item>@drawable/english_premier_league</item>
+        <item>@drawable/french_ligue_1</item>
+        <item>@drawable/german_bundesliga</item>
+        <item>@drawable/italian_serie_a</item>
+        <item>@drawable/spanish_la_liga</item>
+        <item>@drawable/american_mayor_league</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="team_name">Team Name</string>
+    <string name="score">-</string>
+    <string name="divide">:</string>
+    <string name="date_match">Date Match</string>
+    <string name="match_time">Match Time</string>
+    <string name="image_away">Image Away</string>
+    <string name="image_home">Image Home</string>
+    <string name="detail_match">Detail Match</string>
+    <string name="goal">Goal</string>
+    <string name="red_card">Red Card</string>
+    <string name="yellow_card">Yellow Card</string>
+    <string name="starting_lineup">Starting lineup</string>
+    <string name="search">Search</string>
+
+</resources>
